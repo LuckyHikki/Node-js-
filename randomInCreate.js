@@ -19,4 +19,4 @@ for (i = 0; i < 65536; i++){
 	//process.stdout.write(rInt+",");
 	
 }
-console.log("\n\n Counting 6 = "+erik);
+console.log("\n\n Counting 13 = "+erik);
